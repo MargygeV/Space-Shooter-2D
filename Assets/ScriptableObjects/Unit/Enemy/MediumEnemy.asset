@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5059e35ee374f6843aff9448f43aeb7b, type: 3}
+  m_Name: MediumEnemy
+  m_EditorClassIdentifier: 
+  _health: 3
+  _damage: 2
+  _sprite: {fileID: 1187975250, guid: f88c4e760185798449cf4e824d615859, type: 3}
+  _controller: {fileID: 9100000, guid: 85014776f95b71d45a6fc8d1ecbb5159, type: 2}
+  _colliderRadius: {x: 1.6, y: 0.8}
+  _colliderDirection: 1
